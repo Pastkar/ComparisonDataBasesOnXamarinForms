@@ -10,9 +10,6 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonkeyCacheExample", "MonkeyCacheExample\MonkeyCacheExample\MonkeyCacheExample.csproj", "{6A4E8669-0265-495F-AB09-AE47C35C3644}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MC", "MC", "{C817621A-5BDF-409F-920B-018DDEECD589}"
-	ProjectSection(SolutionItems) = preProject
-		.gitignore = .gitignore
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLite", "SQLite", "{56592624-EF8A-47BD-804B-F71F45745CFB}"
 EndProject

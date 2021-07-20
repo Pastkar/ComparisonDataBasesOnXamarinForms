@@ -5,7 +5,7 @@
     <StackLayout>
         <Button Text="Додати 1" Clicked="AddOne"/>
         <Button Text="Додати 1000" Clicked="AddThousand"/>
-        <Button Text="Додати 1000000" Clicked="AddMillion"/>
+        <Button Text="Додати 1000000go" Clicked="AddMillion"/>
         <Button Text="Витягнути дані з бд" Clicked="DownloadBD"/>
         <Button Text="Почистити бд" Clicked="ClearDB"/>
     </StackLayout>
