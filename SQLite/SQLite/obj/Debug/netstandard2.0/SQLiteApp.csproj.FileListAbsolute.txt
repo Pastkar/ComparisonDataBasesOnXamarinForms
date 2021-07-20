@@ -1,0 +1,14 @@
+C:\Project\RealmExample\SQLite\SQLite\bin\Debug\netstandard2.0\SQLiteApp.deps.json
+C:\Project\RealmExample\SQLite\SQLite\bin\Debug\netstandard2.0\SQLiteApp.dll
+C:\Project\RealmExample\SQLite\SQLite\bin\Debug\netstandard2.0\ref\SQLiteApp.dll
+C:\Project\RealmExample\SQLite\SQLite\bin\Debug\netstandard2.0\SQLiteApp.pdb
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.csprojAssemblyReference.cache
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.AssemblyInfoInputs.cache
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.AssemblyInfo.cs
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.csproj.CoreCompileInputs.cache
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.dll
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\ref\SQLiteApp.dll
+C:\Project\RealmExample\SQLite\SQLite\obj\Debug\netstandard2.0\SQLiteApp.pdb
