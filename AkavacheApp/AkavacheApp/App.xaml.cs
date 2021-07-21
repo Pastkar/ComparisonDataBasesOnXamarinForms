@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AkavacheApp.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -9,10 +10,9 @@ namespace AkavacheApp
 
         public App()
         {
-
             InitializeComponent();
             Akavache.Registrations.Start("ApplicationName");
-            MainPage = new MainPage();
+            MainPage = new MainPageView();
         }
 
         protected override void OnStart()
