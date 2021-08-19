@@ -12,5 +12,5 @@
 | Deleting time for : 1000000(ms) |-|-|25|58|
 | Work with Thread |bad|good|bad|bad|
 | Сomplexity of use 
-j |bad|good|bad|bad|
+1 - easy ,4 - hard |4|2|1|3|
 
