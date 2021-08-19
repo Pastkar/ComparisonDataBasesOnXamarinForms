@@ -6,7 +6,7 @@
 | Writing time for : 1000000(ms) |-|-|13054|11513|
 | Reading time for : 1(ms) |0|0|0|6|
 | Reading time for : 1000(ms) |0|7.3|10.6|13.8|
-| Reading time for : 1000000(ms) |-| $1600  |11286|8861|
+| Reading time for : 1000000(ms) |-|-|11286|8861|
 | Deleting time for : 1(ms) |4|8.2|0|9.5|
 | Deleting time for : 1000(ms) |4|11|1|14.4|
 | Deleting time for : 1000000(ms) |-|-|25|58|
